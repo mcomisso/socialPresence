@@ -10,6 +10,8 @@
 - [ ] LastFM: https://www.last.fm/it/user/teomatteo89
 - [ ] LinkedIn: https://www.linkedin.com/in/mcomisso
 - [ ] Paypal: https://paypal.me/matteocomissouk
+- [ ] Pocket: https://getpocket.com/@teomatteo89
+- [ ] Reddit: https://www.reddit.com/user/teomatteo89
 - [ ] Steam: http://steamcommunity.com/id/teomatteo89/
 - [ ] Twitter: http://twitter.com/teomatteo89
 s

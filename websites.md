@@ -1,0 +1,8 @@
+- [ ] About.me: https://about.me/mcomisso
+- [ ] Angel: https://angel.co/matteo-comisso
+- [ ] Facebook: https://www.facebook.com/matteocomisso
+- [ ] Github: https://github.com/mcomisso
+- [ ] Github page: https://github.com/mcomisso/mcomisso.github.io - http://mcomisso.xyz
+- [ ] LinkedIn: https://www.linkedin.com/in/mcomisso
+- [ ] Steam: http://steamcommunity.com/id/teomatteo89/
+- [ ] Twitter: http://twitter.com/teomatteo89

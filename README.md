@@ -7,7 +7,7 @@
 - [ ] Ello: https://ello.co/mcomisso
 - [ ] Facebook: https://www.facebook.com/matteocomisso
 - [ ] Github: https://github.com/mcomisso
-- [ ] Github page: https://github.com/mcomisso/mcomisso.github.io - http://mcomisso.xyz
+- [ ] Github page: https://github.com/mcomisso/mcomisso.github.io - http://mcomisso.me
 - [ ] Instagram: https://www.instagram.com/mcomisso_/
 - [ ] LastFM: https://www.last.fm/it/user/teomatteo89
 - [ ] LinkedIn: https://www.linkedin.com/in/mcomisso

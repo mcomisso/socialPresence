@@ -9,6 +9,7 @@
 - [ ] Github: https://github.com/mcomisso
 - [ ] Github page: https://github.com/mcomisso/mcomisso.github.io - http://mcomisso.me
 - [ ] Instagram: https://www.instagram.com/_matcom_/
+- [ ] Keybase: https://keybase.io/mcomisso
 - [ ] LastFM: https://www.last.fm/it/user/teomatteo89
 - [ ] LinkedIn: https://www.linkedin.com/in/mcomisso
 - [ ] Paypal: https://paypal.me/matteocomissouk
